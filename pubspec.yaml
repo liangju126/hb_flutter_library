@@ -16,6 +16,9 @@ dependencies:
   device_info: ^0.4.1+4
   #路径获取（官方）
   path_provider: ^1.5.1
+  #本地存储（官方）
+  shared_preferences: ^0.5.6
+  synchronized: ^2.1.1
 dev_dependencies:
   flutter_test:
     sdk: flutter
