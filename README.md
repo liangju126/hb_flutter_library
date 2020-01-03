@@ -16,7 +16,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Usage
 
-in pubspee.yaml
+in pubspec.yaml
 ```
 hb_flutter_library:
     git:
