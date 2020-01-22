@@ -7,4 +7,8 @@ extension StringExtension on String {
   double parseDouble() {
     return double.parse(this);
   }
+
+  String donShowNull() {
+    return null == this ? "" : this;
+  }
 }
